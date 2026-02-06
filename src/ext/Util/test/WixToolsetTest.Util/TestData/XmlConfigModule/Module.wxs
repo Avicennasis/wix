@@ -1,4 +1,4 @@
-﻿<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs" xmlns:util="http://wixtoolset.org/schemas/v4/wxs/util">
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs" xmlns:util="http://wixtoolset.org/schemas/v4/wxs/util">
     <Module Id="XmlConfigModule" Language="1033" Version="1.0.0.0" Guid="047730a5-30fe-4a62-a520-da9381b8226a">
 
         <Component Id="Parent" Directory="INSTALLFOLDER">

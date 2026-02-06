@@ -1,4 +1,4 @@
-﻿<ProjectConfiguration>
+<ProjectConfiguration>
   <Settings>
     <AdditionalFilesToIncludeForProject>
       <Value>..\..\build\Debug\util.wixlib</Value>

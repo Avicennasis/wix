@@ -1,4 +1,4 @@
-﻿<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs" xmlns:bal="http://wixtoolset.org/schemas/v4/wxs/bal">
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs" xmlns:bal="http://wixtoolset.org/schemas/v4/wxs/bal">
     <Bundle Name="FDDx86LatestCoreMBA" Version="1.0.0.0" Manufacturer="Example Corporation" UpgradeCode="{E547C546-5E0E-4BF9-A675-BBEF4C77FF0D}">
         <BootstrapperApplication SourceFile="publish\Example.LatestCoreMBA\fdd-x86\Example.LatestCoreMBA.exe">
             <Payload SourceFile="publish\Example.LatestCoreMBA\fdd-x86\Example.LatestCoreMBA.deps.json" Name="Example.LatestCoreMBA.deps.json" />

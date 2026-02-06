@@ -1,4 +1,4 @@
-﻿
+
 namespace CsprojWindowsFormsNetFx
 {
     partial class Form1

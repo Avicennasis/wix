@@ -1,4 +1,4 @@
-﻿namespace CsprojClassLibraryMultiTarget
+namespace CsprojClassLibraryMultiTarget
 {
     public class Class1
     {

@@ -1,4 +1,4 @@
-﻿; Windows Installer Internal Error Messages
+; Windows Installer Internal Error Messages
 ;
 ; Error numbers greater than 2000 are "internal errors" and do not have
 ; localized strings in msimsg.dll.  The messages are provided here

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
   <Package Codepage="65001" Id="Acme.HelloWorld" Manufacturer="Acme" ProductCode="{6068AC19-D69C-4862-8A30-05EDBDA2AE84}" Language="0" Name="HelloWorld" Version="6.0.0" UpgradeCode="{002C7487-6DD2-5C30-9445-8D02984AC904}">
     <StandardDirectory Id="ProgramFiles6432Folder">

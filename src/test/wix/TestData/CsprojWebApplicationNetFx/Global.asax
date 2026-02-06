@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="CsprojWebApplicationNetFx.MvcApplication" Language="C#" %>
+<%@ Application Codebehind="Global.asax.cs" Inherits="CsprojWebApplicationNetFx.MvcApplication" Language="C#" %>

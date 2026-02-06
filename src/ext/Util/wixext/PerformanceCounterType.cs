@@ -1,4 +1,4 @@
-﻿// Captured from: C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.dll
+// Captured from: C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.dll
 
 namespace System.Diagnostics
 {
